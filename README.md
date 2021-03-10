@@ -7,7 +7,7 @@ Information
 Leave some frequently used mac addresses saved or enter a new mac address
 Installation
 
-    Clone this project with git clone https://github.com/AndersonRezende/changemac.git
+    Clone this project with git clone https://github.com/Ling-Hacker/Mac-Changer.git
     Open terminal and install $ sudo apt-get install macchanger
     Identifying Your Network Card running $ sudo ifconfig
     It will be something like:
